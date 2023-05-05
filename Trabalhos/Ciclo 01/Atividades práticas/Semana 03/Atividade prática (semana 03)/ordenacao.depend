@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678406844 source:c:\users\aluno07\desktop\projetoc\main.c
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	"metodos.h"
+
+1678407883 c:\users\aluno07\desktop\projetoc\metodos.h
+	<math.h>
+
